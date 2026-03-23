@@ -30,7 +30,7 @@ Comparing State-Level Eligibility for Medical Cannabis and Alignment with the Ev
 
 > <a href="https://storymaps.arcgis.com/stories/72bfbb105423421dae0a16acad2c80ef" download>Story Map</a>
 
-> <a href="https://storymaps.arcgis.com/stories/72bfbb105423421dae0a16acad2c80ef" download>Presentation</a>
+> <a href="https://drive.google.com/file/d/1JEc83AKGSG_Vc6394bWt9HPrQIfY_R6E/view?usp=sharing" download>Presentation</a>
 
 
 
