@@ -6,7 +6,7 @@ Public health researcher with experience leveraging social media and other large
 
 ### CV
 
-> <a href="https://docs.google.com/document/d/1HiwBCNNL4Mr1dUwcv8dur5nJhYs2m1Gq/edit?usp=sharing&ouid=111126101525917073715&rtpof=true&sd=true" download>Download my CV</a>
+> <a href="https://docs.google.com/document/d/1Ly-SlWorrsFPam47kBqDUFSXgR_PTfpa/edit?usp=sharing&ouid=111126101525917073715&rtpof=true&sd=true" download>Download my CV</a>
 
 ### Projects
 
