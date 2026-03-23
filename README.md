@@ -22,7 +22,7 @@ Cannabis and Psychedelic Marketing on Social Media
 
 > <a href="https://drive.google.com/file/d/14ie_6ODHs67KAzHUqYcIdD1rudvkpT7c/view?usp=sharing" download>Presentation- Qualitative</a>
 
-> <a href="https://drive.google.com/file/d/1JEc83AKGSG_Vc6394bWt9HPrQIfY_R6E/view?usp=sharing" download>Presentation- Quantitative</a>
+> <a href="https://drive.google.com/file/d/1lEkRDgYN_sE1wuQl932iwNmpRDhWLs8j/view?usp=sharing" download>Presentation- Quantitative</a>
 
 > <a href="https://docs.google.com/document/d/1r-R9y9VlRCH7z2imfRik5s3nAlT4vGQh/edit?usp=sharing&ouid=111126101525917073715&rtpof=true&sd=true" download>Paper</a>
 
