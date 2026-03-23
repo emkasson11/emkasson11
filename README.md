@@ -20,7 +20,7 @@ Leveraging Manual Content Analysis and Automated Machine Learning Approaches to 
 
 Cannabis and Psychedelic Marketing on Social Media
 
-> <a href="https://storymaps.arcgis.com/stories/72bfbb105423421dae0a16acad2c80ef" download>Presentation- Qualitative</a>
+> <a href="IPH Alcohol and Other Drugs 4.30.25.pptx" download>Presentation- Qualitative</a>
 
 > <a href="https://drive.google.com/file/d/1JEc83AKGSG_Vc6394bWt9HPrQIfY_R6E/view?usp=sharing" download>Presentation- Quantitative</a>
 
