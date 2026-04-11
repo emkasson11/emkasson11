@@ -18,7 +18,7 @@ Leveraging Manual Content Analysis and Automated Machine Learning Approaches to 
 
 > <a href="https://storymaps.arcgis.com/stories/72bfbb105423421dae0a16acad2c80ef" download>Paper</a>
 
-“I’m just trying to build better supports when human ones aren’t available”: Exploring the advantages and disadvantages of using AI chatbots for mental health support 
+“I’m just trying to build supports when human ones aren’t available”: Exploring the advantages and disadvantages of using AI chatbots for mental health support 
 
 > <a href="https://storymaps.arcgis.com/stories/72bfbb105423421dae0a16acad2c80ef" download>Presentation</a>
 
