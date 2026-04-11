@@ -12,9 +12,7 @@ Public health researcher with experience leveraging social media and other large
 
 Leveraging Manual Content Analysis and Automated Machine Learning Approaches to Identify Themes Related to AI Chatbot Addiction on Reddit
 
-> <a href="https://storymaps.arcgis.com/stories/72bfbb105423421dae0a16acad2c80ef" download>Slides</a>
-
-> <a href="https://storymaps.arcgis.com/stories/72bfbb105423421dae0a16acad2c80ef" download>Video</a>
+> <a href="https://storymaps.arcgis.com/stories/72bfbb105423421dae0a16acad2c80ef" download>Presentation</a>
 
 > <a href="https://storymaps.arcgis.com/stories/72bfbb105423421dae0a16acad2c80ef" download>Paper</a>
 
