@@ -18,6 +18,12 @@ Leveraging Manual Content Analysis and Automated Machine Learning Approaches to 
 
 > <a href="https://storymaps.arcgis.com/stories/72bfbb105423421dae0a16acad2c80ef" download>Paper</a>
 
+“I’m just trying to build better supports when human ones aren’t available”: Exploring the advantages and disadvantages of using AI chatbots for mental health support 
+
+> <a href="https://storymaps.arcgis.com/stories/72bfbb105423421dae0a16acad2c80ef" download>Presentation</a>
+
+> <a href="https://docs.google.com/document/d/1LqAQ7LggDdeN9otXA94H-FJLKgriE6AF/edit?usp=sharing&ouid=111126101525917073715&rtpof=true&sd=true" download>Paper</a>
+
 Cannabis and Psychedelic Marketing on Social Media
 
 > <a href="https://drive.google.com/file/d/14ie_6ODHs67KAzHUqYcIdD1rudvkpT7c/view?usp=sharing" download>Presentation- Qualitative</a>
