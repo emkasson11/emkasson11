@@ -10,9 +10,9 @@ Public health researcher with experience leveraging social media and other large
 
 ### Projects
 
-Leveraging Manual Content Analysis and Automated Machine Learning Approaches to Identify Themes Related to AI Chatbot Addiction on Reddit
+Identifying Topics Related to AI Chatbot Addiction on Social Media: Comparing Manual and Automated Approaches
 
-> <a href="https://storymaps.arcgis.com/stories/72bfbb105423421dae0a16acad2c80ef" download>Presentation</a>
+> <a href="https://docs.google.com/presentation/d/1n6sNo3de-517FpcL-eRqRWHqyw2FsYSt/edit?usp=sharing&ouid=111126101525917073715&rtpof=true&sd=true" download>Presentation</a>
 
 > <a href="https://storymaps.arcgis.com/stories/72bfbb105423421dae0a16acad2c80ef" download>Paper</a>
 
