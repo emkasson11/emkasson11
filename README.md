@@ -14,7 +14,7 @@ Identifying Topics Related to AI Chatbot Addiction on Social Media: Comparing Ma
 
 > <a href="https://docs.google.com/presentation/d/1n6sNo3de-517FpcL-eRqRWHqyw2FsYSt/edit?usp=sharing&ouid=111126101525917073715&rtpof=true&sd=true" download>Presentation</a>
 
-> <a href="https://storymaps.arcgis.com/stories/72bfbb105423421dae0a16acad2c80ef" download>Paper</a>
+> <a href="https://docs.google.com/document/d/17yT_fACQ_Bvs8GuVdwT6LKB95gWHHMiu/edit?usp=sharing&ouid=111126101525917073715&rtpof=true&sd=true" download>Paper</a>
 
 “I’m trying to build supports when human ones aren’t available”: Exploring the advantages and disadvantages of using AI chatbots for mental health support 
 
