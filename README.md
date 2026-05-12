@@ -20,6 +20,8 @@ Identifying Topics Related to AI Chatbot Addiction on Social Media: Comparing Ma
 
 > <a href="https://drive.google.com/file/d/1g5nnY-1iinjg94Sr4OPG4z9zdBnpneYa/view?usp=sharing" download>Presentation</a>
 
+> <a href="https://drive.google.com/file/d/1mfws0WGJgo5QTT0bMdI5GXdVcv7HiKO0/view?usp=sharing" download>Poster</a>
+
 > <a href="https://docs.google.com/document/d/1LqAQ7LggDdeN9otXA94H-FJLKgriE6AF/edit?usp=sharing&ouid=111126101525917073715&rtpof=true&sd=true" download>Paper</a>
 
 Cannabis and Psychedelic Marketing on Social Media
